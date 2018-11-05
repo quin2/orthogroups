@@ -1,0 +1,3 @@
+read.csv("Orthogroups.csv", header=T)
+read.table("Orthogroups.csv", header=T)
+read.table("Orthogroups.csv")

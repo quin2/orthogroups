@@ -1,0 +1,7 @@
+712 stickleback genes with sig repeat sequences
+
+Rewrote with regex, it's a lot faster now and doesn't require GCP
+Using pep sequences
+Keep version for dna and version for pep
+
+Print out gene name, length of all the repeat sequences!!!

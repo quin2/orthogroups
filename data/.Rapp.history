@@ -1,0 +1,4 @@
+data <- read.table('black_rockcod/black_rockcod_r2.10_genecount.tab', sep='\t', header=TRUE)
+tail(data)
+data <- read.table('black_rockcod/black_rockcod_genecount_10.tab', sep='\t', header=TRUE)
+tail(data)
